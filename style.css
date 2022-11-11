@@ -79,6 +79,7 @@ body {
 }
 .content {
   color: var(--Soft-blue);
+  line-height: 30px;
   font-weight: 300;
 }
 .icons {
